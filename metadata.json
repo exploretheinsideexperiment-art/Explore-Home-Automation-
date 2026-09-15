@@ -1,0 +1,6 @@
+{
+  "name": "Explore Home Automation",
+  "description": "Production-grade IoT platform with Web Console, Mobile App, ESP32 SDK, real-time MQTT telemetry, automation engine, and OTA firmware management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
